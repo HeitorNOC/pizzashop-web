@@ -95,7 +95,10 @@ export function SignUp() {
               <a className="underline underline-offset-4" href="#">
                 termos de serviço
               </a>{' '}
-              e <a className="underline underline-offset-4" href="#"></a>
+              e{' '}
+              <a className="underline underline-offset-4" href="#">
+                politicas de privacidade
+              </a>
             </p>
           </form>
         </div>
