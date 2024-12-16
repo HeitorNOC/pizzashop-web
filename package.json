@@ -30,6 +30,8 @@
     "react-hook-form": "^7.53.1",
     "react-router-dom": "^6.27.0",
     "recharts": "^2.13.3",
+    "shadcn-ui": "^0.9.3",
+    "skeleton": "^0.1.2",
     "sonner": "^1.7.0",
     "sort-by": "^1.2.0",
     "tailwind-merge": "^2.5.4",
